@@ -26,3 +26,22 @@ Dashboards que permitem a interação do usuário com a ferramenta Streamlit
 Explore e entenda os dados usando as bibliotecas Pandas e NumPy
 
 
+
+
+### Tecnologias Utilizadas
+🐍 Python
+
+🐼 Pandas
+
+🔢 NumPy
+
+🌐 Plotly
+
+🦀 Seaborn
+
+⚡ Streamlit
+
+
+## 🚀 Imersão de Dados Python - Agosto/2025
+
+
