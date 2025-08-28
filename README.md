@@ -8,13 +8,21 @@ Acesse o dashboard aqui: https://imersao-dados-python-alura-2025-agosto.streamli
 
 
 
+
 ### Conheça o projeto
 Descubra informações salariais de diversos cargos e senioridades na área de dados.
 
 
+
 ### Funcionalidades
 Dados concisos para guiar a escolha
+
 Geração de gráficos interativos com as bibliotecas Plotly e Seaborn
+
 Sistema de filtragem interativo que permite pesquisar por país, cargo e nível de experiência
+
 Dashboards que permitem a interação do usuário com a ferramenta Streamlit
+
 Explore e entenda os dados usando as bibliotecas Pandas e NumPy
+
+
