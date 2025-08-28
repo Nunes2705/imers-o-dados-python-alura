@@ -9,12 +9,12 @@ Acesse o dashboard aqui: https://imersao-dados-python-alura-2025-agosto.streamli
 
 
 
-### Conheça o projeto
+### *Conheça o projeto*
 Descubra informações salariais de diversos cargos e senioridades na área de dados.
 
 
 
-### Funcionalidades
+### **Funcionalidades**
 Dados concisos para guiar a escolha
 
 Geração de gráficos interativos com as bibliotecas Plotly e Seaborn
@@ -28,7 +28,7 @@ Explore e entenda os dados usando as bibliotecas Pandas e NumPy
 
 
 
-### Tecnologias Utilizadas
+### *Tecnologias Utilizadas*
 🐍 Python
 
 🐼 Pandas
