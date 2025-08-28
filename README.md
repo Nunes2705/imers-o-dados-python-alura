@@ -9,7 +9,7 @@ Acesse o dashboard aqui: https://imersao-dados-python-alura-2025-agosto.streamli
 
 
 
-### *Conheça o projeto*
+### **Conheça o projeto**
 Descubra informações salariais de diversos cargos e senioridades na área de dados.
 
 
@@ -28,7 +28,7 @@ Explore e entenda os dados usando as bibliotecas Pandas e NumPy
 
 
 
-### *Tecnologias Utilizadas*
+### **Tecnologias Utilizadas**
 🐍 Python
 
 🐼 Pandas
@@ -42,6 +42,6 @@ Explore e entenda os dados usando as bibliotecas Pandas e NumPy
 ⚡ Streamlit
 
 
-## 🚀 Imersão de Dados Python - Agosto/2025
+### 🚀 Imersão de Dados Python - Agosto/2025
 
 
